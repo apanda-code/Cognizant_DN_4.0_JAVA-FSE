@@ -1,62 +1,90 @@
-# Cognizant DN 4.0 Java FSE Training Repository
+# 🚀 Cognizant Digital Nurture 4.0 – Java Full Stack Engineer Training
 
-Welcome to the official repository for the **Cognizant DN 4.0 Java Full Stack Engineer (FSE)** training program. This repository contains assignments, exercises, and project files completed as part of the training curriculum.
+Welcome to the official repository for my Java Full Stack Engineer (FSE) training under the **Cognizant Digital Nurture 4.0** program. This repository documents my learning journey through weekly assignments, hands-on projects, and full stack development exercises using Java, Spring Boot, MySQL, React, and more.
 
-## 📚 Contents
+---
 
-The repository is organized by module and topic for easier navigation:
+## 📁 Repository Structure
 
-- **Core Java**
-  - OOPs Concepts
-  - Exception Handling
-  - Collections
-  - File I/O
-- **JUnit Testing**
-  - Unit test cases
-  - Assertions
-  - Test-driven development practices
-- **Spring Framework**
-  - Spring Core (IoC, DI, AOP)
-  - Spring Boot
-  - Spring Data JPA
-- **MySQL Integration**
-  - JDBC Setup
-  - DAO Pattern
-  - CRUD Operations
-- **RESTful Web Services**
-  - Spring Boot APIs
-  - JSON/XML responses
-  - Postman testing
-- **Frontend (Optional/Extended)**
-  - Basic HTML/CSS
-  - Angular or React (if applicable)
+The content is organized by modules and weekly tasks for easy reference and navigation:
 
-> ⚠️ Note: Folder names and structure may vary as the content evolves throughout the training.
+### 🔹 Java Core
+- OOPs Concepts  
+- Exception Handling  
+- Collections Framework  
+- File I/O  
+
+### 🔹 Testing & TDD
+- JUnit 5
+- Mockito for Unit Testing
+- Assertions
+- Test-Driven Development Practices  
+
+### 🔹 Spring Framework & Microservices
+- Spring Core (IoC, DI, AOP)  
+- Spring Boot Fundamentals  
+- Spring Data JPA  
+- REST API Development  
+- Microservices Architecture  
+- Service Discovery (Eureka), Communication  
+
+### 🔹 Database & Integration
+- MySQL / H2  
+- JDBC Setup  
+- DAO Pattern  
+- CRUD Operations  
+
+### 🔹 Frontend (Optional/Extended)
+- HTML/CSS  
+- React (Basics – Components, Props, JSX)  
+
+---
+
+## 📅 Weekly Submissions
+
+Each week focuses on a different set of concepts and hands-on tasks, ranging from core Java to microservices, testing, and frontend development.
+
+| Week | Folder Name                                           | Description                                                                 |
+|------|--------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1    | `Week1_Engineering concepts`                          | Basics of software engineering principles and programming foundations       |
+| 2    | `Week2_PL SQL programming & JUnit, Mockito`           | SQL operations, unit testing using JUnit, and mocking with Mockito          |
+| 3    | `Week3_Spring Core and Maven & Spring Data JPA`       | Spring Core concepts (IoC, DI), Maven setup, and basic JPA integration      |
+| 4    | `Week4_Spring REST using Spring Boot`                 | Development of REST APIs using Spring Boot and layered architecture         |
+| 5    | `Week5_Microservices`                                 | Microservices architecture with service separation and inter-service communication |
+| 6    | `Week6_React`                                         | Introduction to React fundamentals, JSX, and component-based UI             |
+
+> 📝 Folder names and contents are subject to change as the training progresses.
+
+---
 
 ## 💡 Purpose
 
-This repository showcases the learning journey and hands-on assignments done during the Java Full Stack Engineer training. It serves as a personal knowledge base and a reference for future projects.
+This repository serves as:
+- A **personal knowledge base** for Java full stack development
+- A **portfolio** showcasing my hands-on capabilities
+- A **reference** for future full stack or microservice-based projects
 
-## 🛠️ Technologies Used
+---
 
-- Java 8+
-- Spring Boot
-- Spring Data JPA
-- Maven
-- MySQL / H2 Database
-- JUnit 5
-- Postman (for API testing)
-- IntelliJ IDEA / Eclipse IDE
+## 🛠 Technologies Used
 
-## 🚀 Getting Started
+- **Java 8+**
+- **Spring Boot**
+- **Spring Data JPA**
+- **Microservices (Spring Cloud, Eureka, REST)**
+- **MySQL / H2 Database**
+- **JUnit 5 & Mockito**
+- **Node.js**
+- **React (Basics)**
+- **Maven**
+- **Postman**
+- **IntelliJ IDEA / Eclipse IDE**
 
-1. Clone the repository:
+---
+
+## 🧑‍💻 How to Run
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/apanda-code/Cognizant_DN_4.0_JAVA-FSE.git
-   
-2. Navigate to a specific module or project:
-cd Cognizant_DN_4.0_JAVA-FSE/<module-name>
-
-3. Build and run the project using Maven or your preferred IDE.
-
-4. Use application.properties for database configuration if needed.
+   cd Cognizant_DN_4.0_JAVA-FSE/
