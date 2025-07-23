@@ -79,6 +79,7 @@ This repository serves as:
 - **Maven**
 - **Postman**
 - **IntelliJ IDEA / Eclipse IDE**
+- **VS Code**
 
 ---
 
