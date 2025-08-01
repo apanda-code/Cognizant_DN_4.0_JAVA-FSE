@@ -52,6 +52,8 @@ Each week focuses on a different set of concepts and hands-on tasks, ranging fro
 | 4    | `Week4_Spring REST using Spring Boot`                 | Development of REST APIs using Spring Boot and layered architecture         |
 | 5    | `Week5_Microservices`                                 | Microservices architecture with service separation and inter-service communication |
 | 6    | `Week6_React`                                         | Introduction to React fundamentals, JSX, and component-based UI             |
+| 7    | `Week7_React Events, Conditional Rendering`           | React event handling, synthetic events, and conditional rendering examples  |
+
 
 > 📝 Folder names and contents are subject to change as the training progresses.
 
